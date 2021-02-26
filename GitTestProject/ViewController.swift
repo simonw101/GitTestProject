@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         
         print("git")
         print("new")
+        print("boo")
+        print("new test")
         
     }
 
